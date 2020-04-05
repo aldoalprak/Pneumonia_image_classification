@@ -1,3 +1,8 @@
+# Pneumonia Image Classification
+
+Created by : Aldo Prakoso, Fahmi Jabbar
+For completing bangkit assignment #05-W05-First Machine Learning Project - MLCC
+
 Dataset Information:
 
 ```bash
